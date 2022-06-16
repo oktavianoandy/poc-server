@@ -1,0 +1,31 @@
+nama video,rerata,banyak box,persentase nilai nol,nilai_bukan_satu,label
+lincah_1,0.00062,13,30.876,0.0108 ,Bagus
+lincah_2,0.00051,12,33.296,0.0085 ,Bagus
+lincah_3,0.00053,10,28.856,0.0074 ,Bagus
+lincah_4,0.00059,13,30.61,0.0084 ,Bagus
+lincah_5,0.00054,15,30.559,0.0085 ,Bagus
+lincah_6,0.00064,4,29.856,0.0065 ,Bagus
+lincah_7,0.00061,12,28.788,0.0059 ,Bagus
+lincah_8,0.00067,16,24.959,0.0076 ,Bagus
+lincah_9,0.00059,15,32.678,0.0072 ,Bagus
+lincah_10,0.00174,14,21.875,0.0002 ,Bagus
+t_lincah_1,0.00061 ,12 ,32.419 ,0.0070 ,Bagus
+t_lincah_2,0.00058 ,13 ,27.771 ,0.0001 ,Bagus
+t_lincah_3,0.00054 ,13 ,26.651 ,0.0083 ,Bagus
+t_lincah_4,0.00051 ,16 ,31.467 ,0.0097 ,Bagus
+t_lincah_5,0.00053 ,16 ,31.664 ,0.0061 ,Bagus
+lambat_1,0.00138,16,28.046,0.0092 ,Tidak Bagus
+lambat_2,0.00255,9,26.071,0.0215 ,Tidak Bagus
+lambat_3,0.0011,8,21.498,0.0082 ,Tidak Bagus
+lambat_4,0.00233,9,26.69,0.0149 ,Tidak Bagus
+lambat_5,0.00162,7,21.833,0.0271 ,Tidak Bagus
+lambat_6,0.00066,11,34.953,0.0200 ,Tidak Bagus
+lambat_7,0.00261,7,25.546,0.0086 ,Tidak Bagus
+lambat_8,0.00054,6,28.779,0.0149 ,Tidak Bagus
+lambat_9,0.00204,9,17.945,0.0260 ,Tidak Bagus
+lambat_10,0.00092,10,35.66,0.0200 ,Tidak Bagus
+t_lambat_1,0.00276 ,10 ,20.000 ,0.0138 ,Tidak Bagus
+t_lambat_2,0.00324 ,8 ,18.502 ,0.0235 ,Tidak Bagus
+t_lambat_3,0.00183 ,13 ,29.263 ,0.0134 ,Tidak Bagus
+t_lambat_4,0.00195 ,6 ,23.297 ,0.0187 ,Tidak Bagus
+t_lambat_5,0.00152 ,10 ,26.254 ,0.0104 ,Tidak Bagus
